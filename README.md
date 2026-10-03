@@ -99,7 +99,7 @@ effective after JPEG compression.
 
 ### JPEG Compression Results
 
-![JPEG Compression Results](jpeg_compression_results.png)
+![JPEG Compression Results](jpeg_compression_result.png)
 
 The results show a **non-monotonic relationship** between JPEG compression
 quality and fooling rate. The strongest compression tested (quality 10)
